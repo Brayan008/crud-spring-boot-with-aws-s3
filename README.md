@@ -24,7 +24,7 @@ You need create a bucket and configure it. Very important create a ACCESS KEY
 ![Alt text](/images/8.png "8")
 ![Alt text](/images/9.png "9")
 
-## Preview End Points and Services ##
+## Preview Service and Controller ##
 ```
 package com.bmb.aws.service;
 
